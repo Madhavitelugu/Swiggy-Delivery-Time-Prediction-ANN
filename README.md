@@ -23,8 +23,4 @@ This project predicts food delivery time using Artificial Neural Networks (ANN).
 ## 🎯 Output
 Accurate prediction of delivery time based on real-world factors.
 
-## 📸 Demo
-(Add your screen recording here)
 
-## 🔗 GitHub Repo
-(Add link here)
